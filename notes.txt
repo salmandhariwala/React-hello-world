@@ -1,0 +1,13 @@
+1) Create project command
+npx create-react-app .
+
+2) Production build 
+npm run build
+
+3) Format Visual code 
+Shift + Option + F
+
+Reference links
+1) Youtube tutorial : https://www.youtube.com/watch?v=sBws8MSXN7A&t=3s
+2) https://github.com/facebook/create-react-app
+3) https://github.com/bradtraversy/react_crash_todo
